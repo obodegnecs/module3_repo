@@ -16,8 +16,8 @@ echo "Fruit calorie: " . $fruit->getCalorie() . "</br>";
 echo "</br>";
 
 echo "Orange size: " . $orange->getSize() . "</br>";
-echo "Banana size: " . $banana->getColour() . "</br>";
-echo "Apple size: " . $apple->getCalorie() . "</br>";
+echo "Banana colour: " . $banana->getColour() . "</br>";
+echo "Apple calorie: " . $apple->getCalorie() . "</br>";
 
 echo "</br>";
 

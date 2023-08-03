@@ -1,4 +1,4 @@
-<?php namespace Box;
+<?php
 
 class Box
 {

@@ -1,4 +1,4 @@
-<?php namespace Data;
+<?php
 
 interface DatabaseInterface
 {

@@ -1,4 +1,4 @@
-<?php namespace Fruits;
+<?php
 
 class Banana extends Fruit
 {

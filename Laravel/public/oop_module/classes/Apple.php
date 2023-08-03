@@ -1,4 +1,4 @@
-<?php namespace Fruits;
+<?php
 
 class Apple extends Fruit
 {

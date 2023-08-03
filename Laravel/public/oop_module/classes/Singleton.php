@@ -1,4 +1,4 @@
-<?php namespace Singleton;
+<?php
 
 class Singleton
 {

@@ -1,4 +1,4 @@
-<?php namespace Logger;
+<?php
 
 class Logger
 {
